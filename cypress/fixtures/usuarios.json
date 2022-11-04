@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Renato Santana Turma6",
+        "usuario": "renatodojoturma6@dojo.com",
+        "senha": "senha@54321"
+    },
+    {
+        "usuario": "Ivani.Melo99@live.com",
+        "senha": "teste@123"    
+    },
+    {
+        "usuario": "fabio.Melo38@live.com",
+        "senha": "teste@123", 
+        "perfil": "admin"
+    }
+]

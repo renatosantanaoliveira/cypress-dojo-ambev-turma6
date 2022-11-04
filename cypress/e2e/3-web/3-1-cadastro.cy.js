@@ -1,5 +1,3 @@
-/// <reference types="cypress"/>
-
 const faker = require('faker-br')
 
 describe('Funcionalidade: Cadastro', () => {  // Separar os contexto dos meus testes
