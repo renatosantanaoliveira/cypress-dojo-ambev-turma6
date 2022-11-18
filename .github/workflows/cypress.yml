@@ -1,10 +1,10 @@
-name: Cypress test dashboard
+name: Cypress tests dashboard
 on: [push]
 
 jobs:
-  cypress-run-tests:
+  cypress-run:
     name: Cypress run
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     container: cypress/browsers:node12.18.3-chrome87-ff82
     strategy:
       fail-fast: false
